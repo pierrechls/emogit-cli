@@ -1,0 +1,33 @@
+{
+  "name": "gci",
+  "version": "1.0.0",
+  "description": "Simple CLI to easily commit multiple files with custom message and emoji support",
+  "keywords": [
+    "cli",
+    "git",
+    "commit",
+    "emoji"
+  ],
+  "preferGlobal": "true",
+  "author": "Pierre Charles",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierrechls/gci.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vuejs/vue-pierrechls/issues"
+  },
+  "homepage": "https://github.com/pierrechls/gci#readme",
+  "main": "lib/index.js",
+  "bin": {
+    "gci": "bin/gci.js"
+  },
+  "dependencies": {
+    "cli-color": "^1.2.0",
+    "commander": "^2.9.0",
+    "inquirer": "^0.12.0",
+    "node-emoji": "^1.5.1",
+    "path": "^0.12.7",
+    "simple-git": "^1.67.0"
+  }
+}

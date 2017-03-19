@@ -1,29 +1,33 @@
 {
-  "name": "gci",
+  "name": "emogit-cli",
   "version": "1.0.0",
-  "description": "Simple CLI to easily commit multiple files with custom message and emoji support",
+  "description": "Simple CLI to easily add and commit multiple files with custom message with an adapted emoji",
   "keywords": [
     "cli",
     "git",
     "commit",
-    "emoji"
+    "emoji",
+    "multiple",
+    "commit",
+    "add",
+    "interactive",
+    "terminal"
   ],
   "preferGlobal": "true",
   "author": "Pierre Charles",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pierrechls/gci.git"
+    "url": "git+https://github.com/pierrechls/emogit-cli.git"
   },
   "bugs": {
-    "url": "https://github.com/vuejs/vue-pierrechls/issues"
+    "url": "https://github.com/pierrechls/emogit-cli/issues"
   },
-  "homepage": "https://github.com/pierrechls/gci#readme",
+  "homepage": "https://github.com/pierrechls/emogit-cli#readme",
   "main": "lib/index.js",
   "bin": {
     "gci": "bin/gci.js"
   },
   "dependencies": {
-    "cli-color": "^1.2.0",
     "commander": "^2.9.0",
     "inquirer": "^0.12.0",
     "node-emoji": "^1.5.1",

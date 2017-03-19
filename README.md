@@ -4,9 +4,7 @@
 
 > Simple CLI to easily commit multiple files with custom message and emoji support.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pierrechls/emogit-cli/master/emogit-preview.gif" style="width:100%;">
-</p>
+![preview](https://raw.githubusercontent.com/pierrechls/emogit-cli/master/emogit-preview.gif)
 
 Select multiples files to commit from the terminal is not very sexy. 
 Moreover, using emojis on commit messages provides an easy way of identifying the purpose or intention of a commit with only looking at the emojis used.  That's why I decided to create a command line to make this process easy.

@@ -11,7 +11,7 @@ Moreover, using emojis on commit messages provides an easy way of identifying th
 
 ## 🚀 How to use it
 
-#### Install emogit as global package
+#### Install emogit as a global package
 
 ```bash
 $ npm i -g emogit-cli

@@ -25,7 +25,7 @@
   "homepage": "https://github.com/pierrechls/emogit-cli#readme",
   "main": "lib/index.js",
   "bin": {
-    "gci": "bin/gci.js"
+    "emogit": "bin/emogit.js"
   },
   "dependencies": {
     "commander": "^2.9.0",

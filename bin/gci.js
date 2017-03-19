@@ -1,5 +1,9 @@
 #!/usr/bin/env node
 
+/****************/
+/*    cgi.js    */
+/****************/
+
 var path = require('path')
 var program = require('commander')
 var pkg = require(path.join('../package'))

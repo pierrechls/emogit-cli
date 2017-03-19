@@ -35,5 +35,5 @@ program.on('--help', function () {
 program.parse(process.argv)
 if ((program.args.length != 1) || ( ['add', 'commit'].indexOf(command) == -1 )) return program.help()
 
-var gci = require(path.join('../lib'))
-gci(command)
+var emogit = require(path.join('../lib'))
+emogit(command)

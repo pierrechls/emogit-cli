@@ -1,7 +1,7 @@
 {
   "name": "emogit-cli",
   "version": "1.1.0",
-  "description": "Simple CLI to easily add and commit multiple files with custom message with an adapted emoji",
+  "description": "Simple CLI to easily add and commit multiple files with a custom message and emoji support",
   "keywords": [
     "cli",
     "git",

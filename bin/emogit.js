@@ -27,13 +27,14 @@ var command = program.args[0]
 program.on('--help', function () {
  console.log('  Actions :')
  console.log()
- console.log('    add     add multiple untracked files in what will be committed')
- console.log('    commit  commit multiple files with an emoji and a custom message')
+ console.log('    add       add multiple untracked files in what will be committed')
+ console.log('    commit    commit multiple files with an emoji and a custom message')
+ console.log('    creative  open emoji cheat sheet in your default browser')
  console.log()
 })
 
 program.parse(process.argv)
-if ((program.args.length != 1) || ( ['add', 'commit'].indexOf(command) == -1 )) return program.help()
+if ((program.args.length != 1) || ( ['add', 'commit', 'creative'].indexOf(command) == -1 )) return program.help()
 
 var emogit = require(path.join('../lib'))
 emogit(command)

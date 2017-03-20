@@ -2,12 +2,11 @@
 
 # emogit-cli
 
-> Simple CLI to easily commit multiple files with custom message and emoji support.
+> Simple CLI to easily add and commit multiple files with a custom message and emoji support
 
 ![preview](https://raw.githubusercontent.com/pierrechls/emogit-cli/master/emogit-preview.gif)
 
-Select multiples files to commit from the terminal is not very sexy. 
-Moreover, using emojis on commit messages provides an easy way of identifying the purpose or intention of a commit with only looking at the emojis used.  That's why I decided to create a command line to make this process easy.
+Select **multiples** files to add or commit from the terminal is not very ~~sexy~~. Moreover, using **emojis** on commit messages provides an easy way of identifying the purpose or intention of a commit with only looking at the emojis used.  That's why I decided to create a command line to make this process **easy**.
 
 ## 🚀 How to use it
 
@@ -27,3 +26,7 @@ $ emogit commit  # commit multiple files with an emoji and a custom message
 ## 🛠 Prior installation
 
 You have to download [Node.js](https://nodejs.org/en/download/)
+
+## 🙌🏻 Contribute
+
+Contributing to [emogit-cli](https://www.npmjs.com/package/emogit-cli) it's a piece of 🍰. You want to add an emoji to the list ? You have an idea about a new feature ? Fork the repo, do your stuff and open a [pull request](https://github.com/pierrechls/emogit-cli/compare) ! You can also report a problem or a suggestion by opening an [issue](https://github.com/pierrechls/emogit-cli/issues/new).

@@ -31,6 +31,7 @@
     "commander": "^2.9.0",
     "inquirer": "^0.12.0",
     "node-emoji": "^1.5.1",
+    "opn": "^4.0.2",
     "path": "^0.12.7",
     "simple-git": "^1.67.0"
   }

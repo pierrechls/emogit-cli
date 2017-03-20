@@ -1,4 +1,4 @@
-[![version](https://img.shields.io/badge/version-1.0.0-green.svg?style=flat-square)](https://github.com/pierrechls/emogit-cli) [![Build status](https://img.shields.io/badge/build-passing-green.svg?style=flat-square)](https://img.shields.io/badge/build-passing-green.svg?style=flat-square) [![emoji-lover](https://img.shields.io/badge/emoji%20lover-%20%20%F0%9F%9A%80%20%20-yellow.svg?style=flat-square)](https://github.com/pierrechls/emogit-cli) [![js-standard-style](https://img.shields.io/badge/code_style-standard-lightgrey.svg?style=flat-square)](http://standardjs.com/)
+[![version](https://img.shields.io/badge/version-1.2.0-green.svg?style=flat-square)](https://github.com/pierrechls/emogit-cli) [![Build status](https://img.shields.io/badge/build-passing-green.svg?style=flat-square)](https://img.shields.io/badge/build-passing-green.svg?style=flat-square) [![emoji-lover](https://img.shields.io/badge/emoji%20lover-%20%20%F0%9F%9A%80%20%20-yellow.svg?style=flat-square)](https://github.com/pierrechls/emogit-cli) [![js-standard-style](https://img.shields.io/badge/code_style-standard-lightgrey.svg?style=flat-square)](http://standardjs.com/)
 
 # emogit-cli
 

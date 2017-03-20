@@ -19,8 +19,9 @@ $ npm i -g emogit-cli
 #### Have fun
 
 ```bash
-$ emogit add     # add multiple untracked files in what will be committed
-$ emogit commit  # commit multiple files with an emoji and a custom message
+$ emogit add       # add multiple untracked files in what will be committed
+$ emogit commit    # commit multiple files with an emoji and a custom message
+$ emogit creative  # open emoji cheat sheet in your default browser
 ```
 
 ## 🛠 Prior installation
